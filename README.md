@@ -1,2 +1,4 @@
-https://ibb.co/PGgCdGM https://ibb.co/NFQdV3s
-https://ibb.co/D5K59Qh https://ibb.co/GnH3Z16
+- all https://ibb.co/PGgCdGM
+- id https://ibb.co/NFQdV3s
+- add https://ibb.co/D5K59Qh
+- remove https://ibb.co/GnH3Z16
